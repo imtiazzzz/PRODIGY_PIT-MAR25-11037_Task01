@@ -21,5 +21,5 @@ Enter the original unit (Celsius, Fahrenheit, or Kelvin): celsius
 ```
 
 **Author:** Mangesh Pangam<br>
-**GitHub:** [Mangesh2704](https://github.com/Mangesh2704)  
-**Email:** 202103036.mangeshpkr@student.xavier.ac.in  
+**GitHub:** [Imtiaz Bhuiyan](https://github.com/imtiazzzz)  
+**Email:** mm.imtiaz.bhuiyan@gmail.com  
