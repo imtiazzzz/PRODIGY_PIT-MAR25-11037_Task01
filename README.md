@@ -7,11 +7,11 @@ The Temperature Unit Converter is a simple Python program that allows users to c
 
 ## Example
 
-Suppose you input a temperature of 25 degrees Celsius:
+Suppose you input a temperature of 30 degrees Celsius:
 
 ```
 Temperature Conversion Program
--------------------------------
+
 Enter the temperature value: 30
 Enter the original unit (Celsius, Fahrenheit, or Kelvin): celsius
 
@@ -20,6 +20,6 @@ Enter the original unit (Celsius, Fahrenheit, or Kelvin): celsius
 303.15 Kelvin
 ```
 
-**Author:** Mangesh Pangam<br>
+**Author:** Imtiaz Bhuiyan<br>
 **GitHub:** [Imtiaz Bhuiyan](https://github.com/imtiazzzz)  
 **Email:** mm.imtiaz.bhuiyan@gmail.com  
